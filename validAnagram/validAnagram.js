@@ -19,3 +19,4 @@ var isAnagram = function(s, t) {
     return true;
     
 };
+//Time complexity O(n) and space complexity O(n)
