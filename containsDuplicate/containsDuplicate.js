@@ -12,3 +12,5 @@ function containsDuplicate(nums) {
     }
  return false;
 };
+
+// O(n) time complexity
